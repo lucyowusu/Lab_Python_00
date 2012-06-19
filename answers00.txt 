@@ -1,0 +1,246 @@
+Python 2.7.2+ (default, Oct  4 2011, 20:03:08) 
+[GCC 4.6.1] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> print 'hello, AITI!'
+hello, AITI!
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+
+Traceback (most recent call last):
+  File "/home/aiti-student/Documents/lucyowusu/Lab_Python_00/Day1.py", line 4, in <module>
+    print c
+NameError: name 'c' is not defined
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+
+Traceback (most recent call last):
+  File "/home/aiti-student/Documents/lucyowusu/Lab_Python_00/Day1.py", line 4, in <module>
+    print c
+NameError: name 'c' is not defined
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+5
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+5
+5
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+5
+g is equal to  5
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+5
+g is equal to  5
+7625597484987
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+Ex 1
+5
+g is equal to  5
+Ex 1.5
+Ex 2
+7625597484987
+Ex 1.5
+Ex 3
+the answer= 7109362
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+Ex 1
+5
+g is equal to  5
+Ex 1.5
+Ex 2
+7625597484987
+Ex 1.5
+Ex 3
+the answer= 18
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+Ex 1
+5
+g is equal to  5
+Ex 1.5
+Ex 2
+7625597484987
+Ex 1.5
+Ex 3
+the answer= 18
+converting 7.9km to meters = 7900.0
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+Ex 1
+5
+g is equal to  5
+Ex 1.5
+Ex 2
+7625597484987
+Ex 1.5
+Ex 3
+the answer= 18
+Ex 1.5
+Ex 4
+converting 7.9km to meters = 7900.0
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+Ex 1
+5
+g is equal to  5
+Ex 1.5
+Ex 2
+7625597484987
+Ex 1.5
+Ex 3
+the answer= 18
+Ex 1.5
+Ex 4
+converting 7.9km to meters = 7900.0
+average time= 0.00569620253165
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+Ex 1
+5
+g is equal to  5
+Ex 1.5
+Ex 2
+7625597484987
+Ex 1.5
+Ex 3
+the answer= 18
+Ex 1.5
+Ex 4
+converting 7.9km to meters = 7900.0
+the average time per meter is  0.00569620253165
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+Ex 1
+5
+g is equal to  5
+Ex 1.5
+Ex 2
+7625597484987
+Ex 1.5
+Ex 3
+the answer= 18
+Ex 1.5
+Ex 4
+converting 7.9km to meters = 7900.0
+the average time per meter is  0.00569620253165
+Ex 1.5
+Ex 5
+the shortest distance between you and your friend is 
+
+Traceback (most recent call last):
+  File "/home/aiti-student/Documents/lucyowusu/Lab_Python_00/Day1.py", line 52, in <module>
+    print 'the shortest distance between you and your friend is ', (pow((pow(lucy,2)+pow(sela,2))),0.5)*0.62137
+NameError: name 'lucy' is not defined
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+Ex 1
+5
+g is equal to  5
+Ex 1.5
+Ex 2
+7625597484987
+Ex 1.5
+Ex 3
+the answer= 18
+Ex 1.5
+Ex 4
+converting 7.9km to meters = 7900.0
+the average time per meter is  0.00569620253165
+Ex 1.5
+Ex 5
+the shortest distance between you and your friend is 
+
+Traceback (most recent call last):
+  File "/home/aiti-student/Documents/lucyowusu/Lab_Python_00/Day1.py", line 52, in <module>
+    print 'the shortest distance between you and your friend is ', (pow((pow(lucy,2)+pow(sela,2))),0.5)*0.62137
+TypeError: pow expected at least 2 arguments, got 1
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+Ex 1
+5
+g is equal to  5
+Ex 1.5
+Ex 2
+7625597484987
+Ex 1.5
+Ex 3
+the answer= 18
+Ex 1.5
+Ex 4
+converting 7.9km to meters = 7900.0
+the average time per meter is  0.00569620253165
+Ex 1.5
+Ex 5
+the shortest distance between you and your friend is  6.53030012814
+>>> ================================ RESTART ================================
+>>> 
+Lucy Owusu
+Python here we come
+Ex 1.5
+Ex 1
+the output of a/b is 5
+g is equal to  5
+Ex 1.5
+Ex 2
+the output of pow(f,g) is 7625597484987
+Ex 1.5
+Ex 3
+the answer= 18
+Ex 1.5
+Ex 4
+converting 7.9km to meters = 7900.0
+the average time per meter is  0.00569620253165
+Ex 1.5
+Ex 5
+the shortest distance between you and your friend is  6.53030012814
+>>> 
